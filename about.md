@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a part-time PhD student in machine learning at the [University of Salford](https://www.salford.ac.uk/research/health-sciences/research-groups/diagnostic-imaging) in Manchester. My research is looking at using machine learning to identify women at risk from cardiovascular disease from breast-screening mammograms.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I work as a radiographer in the Irish health service and also have experience as a software developer in the [TSSG](https://www.tssg.org/) research group in [Waterford Institute of Technology](https://www.wit.ie). My interests include health informatics and the use of machine learning in medical imaging.
