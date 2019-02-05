@@ -1,1 +1,1 @@
-# My first jekyll website
+# Lateral View
